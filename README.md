@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/swoth">Yapımcı</a>
+  <a href="https://github.com/swoth">Geliştirici</a>
   &#160|&#160
   <a href="https://github.com/twbs/bootstrap/issues/new?template=feature_request.md">Request feature</a>
   &#160|&#160
