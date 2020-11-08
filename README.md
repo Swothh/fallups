@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug_report.md">Report bug</a>
+  <h3 href="https://github.com/twbs/bootstrap/issues/new?template=bug_report.md">Report bug</h3>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature_request.md">Request feature</a>
+  <h3 href="https://github.com/twbs/bootstrap/issues/new?template=feature_request.md">Request feature</h3>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
+  <h3 href="https://themes.getbootstrap.com/">Themes</h3>
   ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <h3 href="https://blog.getbootstrap.com/">Blog</h3>
 </p>
